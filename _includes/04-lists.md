@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Python :snake:
+2. Gaming :video_game:
+3. Movies :clapper:
